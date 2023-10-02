@@ -15,5 +15,6 @@
   "dependencies": {
     "nanyi-cli": "^1.0.1",
     "nanyi-lib": "^1.0.1"
-  }
+  },
+  "gitHead": "ba108ade4f31614614282f420848d390032ed344"
 }
