@@ -1,6 +1,6 @@
 {
   "name": "@nanyi-cli-dev/utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "nanyi-cli utils",
   "main": "index.js",
   "scripts": {
