@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@nanyi-cli-dev/utils",
   "version": "1.0.0",
   "description": "nanyi-cli utils",
   "main": "index.js",
@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "lerna": "^7.3.0"
+  },
+  "dependencies": {
+    "nanyi-cli": "^1.0.1"
   }
 }

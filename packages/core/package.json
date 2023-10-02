@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "@nanyi-cli-dev/core",
   "version": "1.0.0",
   "description": "nanyi-cli core",
   "main": "index.js",
@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nanyi-cli": "^1.0.1",
+    "nanyi-lib": "^1.0.1"
+  }
 }

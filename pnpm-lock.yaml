@@ -16,9 +16,20 @@ importers:
         specifier: ^7.3.0
         version: 7.3.0
 
-  packages/core: {}
+  packages/core:
+    dependencies:
+      nanyi-cli:
+        specifier: ^1.0.1
+        version: 1.0.1
+      nanyi-lib:
+        specifier: ^1.0.1
+        version: 1.0.1
 
   packages/utils:
+    dependencies:
+      nanyi-cli:
+        specifier: ^1.0.1
+        version: 1.0.1
     devDependencies:
       lerna:
         specifier: ^7.3.0
