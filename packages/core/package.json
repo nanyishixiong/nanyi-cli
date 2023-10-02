@@ -2,7 +2,10 @@
   "name": "@nanyi-cli-dev/core",
   "version": "1.0.1",
   "description": "nanyi-cli core",
-  "main": "index.js",
+  "main": "lib/core.js",
+  "bin": {
+    "nanyi-cli-dev": "bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
