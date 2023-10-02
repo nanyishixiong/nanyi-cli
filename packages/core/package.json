@@ -1,6 +1,6 @@
 {
   "name": "@nanyi-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "nanyi-cli core",
   "main": "lib/core.js",
   "bin": {
@@ -16,5 +16,5 @@
     "nanyi-cli": "^1.0.1",
     "nanyi-lib": "^1.0.1"
   },
-  "gitHead": "ba108ade4f31614614282f420848d390032ed344"
+  "gitHead": "ce7f5c1cac70897302c63a2e5ef0d123bdd9958b"
 }
