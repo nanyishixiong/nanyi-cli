@@ -1,0 +1,23 @@
+{
+  "name": "nanyi-cli-dev",
+  "version": "1.0.0",
+  "description": "nanyi-cli dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "engines": {
+    "node": ">=17",
+    "pnpm": ">=8"
+  },
+  "dependencies": {
+    "nanyi-cli": "^1.0.1"
+  },
+  "devDependencies": {
+    "lerna": "^7.3.0"
+  }
+}
