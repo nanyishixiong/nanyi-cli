@@ -16,5 +16,8 @@
     "nanyi-cli": "^1.0.1",
     "nanyi-lib": "^1.0.1"
   },
-  "gitHead": "ce7f5c1cac70897302c63a2e5ef0d123bdd9958b"
+  "gitHead": "3f4eebe1f6fb18a400a34d99bba24ee11c3e658e",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -14,5 +14,9 @@
   },
   "dependencies": {
     "nanyi-cli": "^1.0.1"
+  },
+  "gitHead": "3f4eebe1f6fb18a400a34d99bba24ee11c3e658e",
+  "publishConfig": {
+    "access": "public"
   }
 }
